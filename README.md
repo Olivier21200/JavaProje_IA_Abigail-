@@ -1,4 +1,4 @@
-# JavaProje_IA_Abigail-
+# JavaProjet_IA_Abigail
 
 Dans ce jeu, vous contrôlez Abigail. Celle-ci peut se déplacer suivant 4 directions : Haut, Bas, Droite et Gauche. Il n’est pas possible de se déplacer en diagonale. Votre personnage ne peut se déplacer que sur des cases d’herbe ou de terre n’étant pas occupées par un arbre ou un bâtiment.
 
